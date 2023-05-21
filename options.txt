@@ -1,0 +1,8 @@
+create_user.sh
+delete_user.sh
+create_db.sh
+del_db.sh
+create_table.sh
+insert_row.sh
+select_row.sh
+delete_row.sh
